@@ -1,4 +1,4 @@
-# Lab code (WIP), but call for comments
+# Lab code
 
 [![Build Status](https://travis-ci.org/hunkim/DeepLearningZeroToAll.svg?branch=master)](https://travis-ci.org/hunkim/DeepLearningZeroToAll)
 
